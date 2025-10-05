@@ -1,0 +1,1 @@
+./wifi-switcher-darwin-amd64 --ssid-a "Lotus's Corp CS" --psk-a "Patipung@5082#KunWAN" --ssid-b "Lotus's Corp New" --psk-b "Teerawan@2356#Kunpung" --api-url "https://jsonplaceholder.typicode.com/posts/1"
